@@ -1,0 +1,86 @@
+{
+  "line_count": 3,
+  "mode": "glyph",
+  "note": "Glyph mode is a no-direct-OCR visual-token baseline, not a true language transcript.",
+  "results": [
+    {
+      "index": 1,
+      "bbox": [
+        0,
+        0,
+        1154,
+        22
+      ],
+      "crop_path": "output\\line_crops\\line_01.jpg",
+      "text": "G001",
+      "transliteration": null,
+      "engine": "visual-glyph-clustering",
+      "glyphs": [
+        {
+          "token": "G001",
+          "bbox": [
+            0,
+            0,
+            1154,
+            22
+          ]
+        }
+      ],
+      "error": null
+    },
+    {
+      "index": 2,
+      "bbox": [
+        51,
+        62,
+        1078,
+        41
+      ],
+      "crop_path": "output\\line_crops\\line_02.jpg",
+      "text": "G002",
+      "transliteration": null,
+      "engine": "visual-glyph-clustering",
+      "glyphs": [
+        {
+          "token": "G002",
+          "bbox": [
+            0,
+            0,
+            1078,
+            41
+          ]
+        }
+      ],
+      "error": null
+    },
+    {
+      "index": 3,
+      "bbox": [
+        55,
+        165,
+        1072,
+        44
+      ],
+      "crop_path": "output\\line_crops\\line_03.jpg",
+      "text": "G003",
+      "transliteration": null,
+      "engine": "visual-glyph-clustering",
+      "glyphs": [
+        {
+          "token": "G003",
+          "bbox": [
+            0,
+            0,
+            1072,
+            44
+          ]
+        }
+      ],
+      "error": null
+    }
+  ],
+  "artifacts": {
+    "glyph_atlas": "output\\glyph_atlas.jpg",
+    "text": "output\\text.txt"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "source_image": "input\\palm_leaf.jpg",
+  "damage_region_count": 14,
+  "damage_area_pixels": 24507,
+  "damage_area_percent": 8.8856,
+  "regions": [
+    {
+      "index": 1,
+      "bbox": [
+        670,
+        194,
+        484,
+        45
+      ],
+      "area_pixels": 5774,
+      "area_percent": 2.0935,
+      "kind": "dark_stain_or_loss"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        57,
+        188,
+        839,
+        21
+      ],
+      "area_pixels": 1982,
+      "area_percent": 0.7186,
+      "kind": "surface_anomaly"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        0,
+        188,
+        171,
+        51
+      ],
+      "area_pixels": 2028,
+      "area_percent": 0.7353,
+      "kind": "surface_anomaly"
+    },
+    {
+      "index": 4,
+      "bbox": [
+        105,
+        176,
+        206,
+        10
+      ],
+      "area_pixels": 445,
+      "area_percent": 0.1613,
+      "kind": "abrasion_or_light_patch"
+    },
+    {
+      "index": 5,
+      "bbox": [
+        368,
+        164,
+        756,
+        36
+      ],
+      "area_pixels": 2334,
+      "area_percent": 0.8462,
+      "kind": "surface_anomaly"
+    },
+    {
+      "index": 6,
+      "bbox": [
+        283,
+        117,
+        43,
+        25
+      ],
+      "area_pixels": 775,
+      "area_percent": 0.281,
+      "kind": "dark_stain_or_loss"
+    },
+    {
+      "index": 7,
+      "bbox": [
+        53,
+        81,
+        127,
+        23
+      ],
+      "area_pixels": 381,
+      "area_percent": 0.1381,
+      "kind": "surface_anomaly"
+    },
+    {
+      "index": 8,
+      "bbox": [
+        100,
+        74,
+        148,
+        34
+      ],
+      "area_pixels": 588,
+      "area_percent": 0.2132,
+      "kind": "surface_anomaly"
+    },
+    {
+      "index": 9,
+      "bbox": [
+        352,
+        67,
+        165,
+        35
+      ],
+      "area_pixels": 442,
+      "area_percent": 0.1603,
+      "kind": "surface_anomaly"
+    },
+    {
+      "index": 10,
+      "bbox": [
+        395,
+        64,
+        225,
+        12
+      ],
+      "area_pixels": 545,
+      "area_percent": 0.1976,
+      "kind": "abrasion_or_light_patch"
+    },
+    {
+      "index": 11,
+      "bbox": [
+        621,
+        62,
+        217,
+        14
+      ],
+      "area_pixels": 535,
+      "area_percent": 0.194,
+      "kind": "abrasion_or_light_patch"
+    },
+    {
+      "index": 12,
+      "bbox": [
+        522,
+        52,
+        606,
+        52
+      ],
+      "area_pixels": 2250,
+      "area_percent": 0.8158,
+      "kind": "surface_anomaly"
+    },
+    {
+      "index": 13,
+      "bbox": [
+        1093,
+        0,
+        61,
+        24
+      ],
+      "area_pixels": 575,
+      "area_percent": 0.2085,
+      "kind": "dark_stain_or_loss"
+    },
+    {
+      "index": 14,
+      "bbox": [
+        0,
+        0,
+        417,
+        70
+      ],
+      "area_pixels": 5853,
+      "area_percent": 2.1221,
+      "kind": "surface_anomaly"
+    }
+  ],
+  "artifacts": {
+    "damage_map": "output\\damage_map.jpg"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "source_image": "input\\palm_leaf.jpg",
+  "line_count": 3,
+  "segments": [
+    {
+      "index": 1,
+      "bbox": [
+        0,
+        0,
+        1154,
+        22
+      ],
+      "polygon": [
+        [
+          1153,
+          8
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "crop_path": "output\\line_crops\\line_01.jpg"
+    },
+    {
+      "index": 2,
+      "bbox": [
+        51,
+        62,
+        1078,
+        41
+      ],
+      "polygon": [
+        [
+          51,
+          102
+        ],
+        [
+          51,
+          64
+        ],
+        [
+          1128,
+          62
+        ],
+        [
+          1125,
+          89
+        ]
+      ],
+      "crop_path": "output\\line_crops\\line_02.jpg"
+    },
+    {
+      "index": 3,
+      "bbox": [
+        55,
+        165,
+        1072,
+        44
+      ],
+      "polygon": [
+        [
+          1126,
+          165
+        ],
+        [
+          1011,
+          208
+        ],
+        [
+          55,
+          205
+        ],
+        [
+          137,
+          168
+        ]
+      ],
+      "crop_path": "output\\line_crops\\line_03.jpg"
+    }
+  ],
+  "artifacts": {
+    "segmented_output": "output\\segmented_output.jpg",
+    "debug_projection": "output\\debug_projection.jpg"
+  }
+}
