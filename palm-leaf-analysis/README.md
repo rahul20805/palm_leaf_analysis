@@ -34,7 +34,6 @@ palm-leaf-analysis/
 ## Setup
 
 ```powershell
-cd "D:\ALKA\navi\New folder (2)\palm-leaf-analysis"
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
